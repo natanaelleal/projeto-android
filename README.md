@@ -1,3 +1,4 @@
 # Curso de HTML-CSS
-Primeiro projeto criado.
+## Primeiro projeto criado.
+
 Foi utilizado apenas HTML-CSS.
